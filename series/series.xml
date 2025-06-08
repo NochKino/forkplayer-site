@@ -1,8 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <root title="Сериалы">
   <channel>
-    <title>Пример сериала</title>
-    <link>http://example.com/series1.mp4</link>
-    <img>https://nochkino.github.io/forkplayer-site/images/series1.jpg</img>
+    <title>Сериалы</title>
+    <item>
+      <title>Во все тяжкие (Breaking Bad)</title>
+      <link>https://www.sample-videos.com/video123/mp4/720/big_buck_bunny_720p_10mb.mp4</link>
+      <img>https://upload.wikimedia.org/wikipedia/en/6/61/Breaking_Bad_title_card.png</img>
+      <description>Учитель химии становится наркобароном. Один из самых высокооценённых сериалов в истории.</description>
+    </item>
+    <item>
+      <title>Игра престолов (Game of Thrones)</title>
+      <link>https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4</link>
+      <img>https://upload.wikimedia.org/wikipedia/en/d/d8/Game_of_Thrones_title_card.jpg</img>
+      <description>Фэнтези-драма о борьбе за Железный трон. Основан на книгах Дж. Р. Р. Мартина.</description>
+    </item>
   </channel>
 </root>

@@ -1,0 +1,10 @@
+<root title="Сериал 1 - Сезон 1">
+  <channel>
+    <title>Серия 1</title>
+    <link>http://192.168.2.55:8080/video/series1/episode1.mp4</link>
+  </channel>
+  <channel>
+    <title>Серия 2</title>
+    <link>http://192.168.2.55:8080/video/series1/episode2.mp4</link>
+  </channel>
+</root>

@@ -1,0 +1,8 @@
+<root title="Сериалы">
+  <channel>
+    <title>Сериал 1 (Сезон 1)</title>
+    <link>http://192.168.2.55:8080/series/series1.xml</link>
+    <img>http://192.168.2.55:8080/images/series1.jpg</img>
+    <description>Интересный сериал</description>
+  </channel>
+</root>

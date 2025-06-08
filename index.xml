@@ -1,0 +1,12 @@
+<root title="Мой Кинотеатр">
+  <channel>
+    <title>🎬 Фильмы</title>
+    <link>http://192.168.2.55:8080/categories/films.xml</link>
+    <img>http://192.168.2.55:8080/images/movie1.jpg</img>
+  </channel>
+  <channel>
+    <title>📺 Сериалы</title>
+    <link>http://192.168.2.55:8080/categories/series.xml</link>
+    <img>http://192.168.2.55:8080/images/series1.jpg</img>
+  </channel>
+</root>

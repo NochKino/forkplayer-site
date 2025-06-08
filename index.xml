@@ -1,12 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <root title="Мой Кинотеатр">
   <channel>
     <title>🎬 Фильмы</title>
-    <link>http://192.168.2.55:8080/categories/films.xml</link>
-    <img>http://192.168.2.55:8080/images/movie1.jpg</img>
+    <link>https://nochkino.github.io/forkplayer-site/categories/films.xml</link>
+    <img>https://nochkino.github.io/forkplayer-site/images/movie1.jpg</img>
   </channel>
   <channel>
     <title>📺 Сериалы</title>
-    <link>http://192.168.2.55:8080/categories/series.xml</link>
-    <img>http://192.168.2.55:8080/images/series1.jpg</img>
+    <link>https://nochkino.github.io/forkplayer-site/series/series.xml</link>
+    <img>https://nochkino.github.io/forkplayer-site/images/series1.jpg</img>
   </channel>
 </root>

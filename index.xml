@@ -7,12 +7,12 @@
   </channel>
   <channel>
     <title>🎬 Фильмы</title>
-    <link>https://nochkino.github.io/forkplayer-site/categories/films.xml</link>
-    <img>https://nochkino.github.io/forkplayer-site/images/movie1.jpg</img>
+    <link>https://nochkino.github.io/fp/categories/films.xml</link>
+    <img>https://nochkino.github.io/fp/images/movie1.jpg</img>
   </channel>
   <channel>
     <title>📺 Сериалы</title>
-    <link>https://nochkino.github.io/forkplayer-site/series/series.xml</link>
-    <img>https://nochkino.github.io/forkplayer-site/images/series1.jpg</img>
+    <link>https://nochkino.github.io/fp/series/series.xml</link>
+    <img>https://nochkino.github.io/fp/images/series1.jpg</img>
   </channel>
 </root>

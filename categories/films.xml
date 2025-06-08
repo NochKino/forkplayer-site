@@ -1,8 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <root title="Фильмы">
   <channel>
-    <title>Пример фильма</title>
-    <link>http://example.com/video1.mp4</link>
-    <img>https://nochkino.github.io/forkplayer-site/images/movie1.jpg</img>
+    <title>Фильмы</title>
+    <item>
+      <title>Пример фильма</title>
+      <link>http://example.com/video1.mp4</link>
+      <img>https://nochkino.github.io/forkplayer-site/images/movie1.jpg</img>
+    </item>
   </channel>
 </root>

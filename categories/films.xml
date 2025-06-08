@@ -3,16 +3,16 @@
   <channel>
     <title>Фильмы</title>
     <item>
-      <title>Фильм: Начало</title>
-      <link>https://example.com/video/inception.mp4</link>
-      <img>https://nochkino.github.io/forkplayer-site/images/movie1.jpg</img>
-      <description>Фантастика, боевик. Реж. Кристофер Нолан</description>
+      <title>Начало (Inception, 2010)</title>
+      <link>https://www.sample-videos.com/video123/mp4/720/big_buck_bunny_720p_10mb.mp4</link>
+      <img>https://upload.wikimedia.org/wikipedia/en/7/7f/Inception_ver3.jpg</img>
+      <description>Фантастика, боевик. Вор, способный проникать в сны, получает шанс искупить вину. Реж. Кристофер Нолан.</description>
     </item>
     <item>
-      <title>Фильм: Матрица</title>
-      <link>https://example.com/video/matrix.mp4</link>
-      <img>https://nochkino.github.io/forkplayer-site/images/movie2.jpg</img>
-      <description>Культовый фильм в жанре sci-fi</description>
+      <title>Матрица (The Matrix, 1999)</title>
+      <link>https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4</link>
+      <img>https://upload.wikimedia.org/wikipedia/en/c/c1/The_Matrix_Poster.jpg</img>
+      <description>Нео узнаёт, что реальность — это иллюзия. Революционный sci-fi от братьев Вачовски.</description>
     </item>
   </channel>
 </root>

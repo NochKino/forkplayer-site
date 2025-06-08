@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <root title="Мой Кинотеатр">
   <channel>
+    <title>🔍 Поиск</title>
+    <search site="https://example.com/search?q=%s" />
+    <img>https://nochkino.github.io/forkplayer-site/images/search.jpg</img>
+  </channel>
+  <channel>
     <title>🎬 Фильмы</title>
     <link>https://nochkino.github.io/forkplayer-site/categories/films.xml</link>
     <img>https://nochkino.github.io/forkplayer-site/images/movie1.jpg</img>

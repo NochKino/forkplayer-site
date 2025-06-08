@@ -3,10 +3,16 @@
   <channel>
     <title>Сериалы</title>
     <item>
-      <title>Сериал 1 (Сезон 1)</title>
-      <link>http://192.168.2.55:8080/series/series1.xml</link>
-      <img>http://192.168.2.55:8080/images/series1.jpg</img>
-      <description>Интересный сериал</description>
+      <title>Сериал: Во все тяжкие</title>
+      <link>https://example.com/series/breakingbad.xml</link>
+      <img>https://nochkino.github.io/forkplayer-site/images/series1.jpg</img>
+      <description>Драма о школьном учителе и наркотиках</description>
+    </item>
+    <item>
+      <title>Сериал: Игра престолов</title>
+      <link>https://example.com/series/got.xml</link>
+      <img>https://nochkino.github.io/forkplayer-site/images/series2.jpg</img>
+      <description>Фэнтези-драма от HBO</description>
     </item>
   </channel>
 </root>

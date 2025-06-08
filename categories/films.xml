@@ -3,9 +3,16 @@
   <channel>
     <title>Фильмы</title>
     <item>
-      <title>Пример фильма</title>
-      <link>http://example.com/video1.mp4</link>
+      <title>Фильм: Начало</title>
+      <link>https://example.com/video/inception.mp4</link>
       <img>https://nochkino.github.io/forkplayer-site/images/movie1.jpg</img>
+      <description>Фантастика, боевик. Реж. Кристофер Нолан</description>
+    </item>
+    <item>
+      <title>Фильм: Матрица</title>
+      <link>https://example.com/video/matrix.mp4</link>
+      <img>https://nochkino.github.io/forkplayer-site/images/movie2.jpg</img>
+      <description>Культовый фильм в жанре sci-fi</description>
     </item>
   </channel>
 </root>
